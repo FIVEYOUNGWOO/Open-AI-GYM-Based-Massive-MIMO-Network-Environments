@@ -6,4 +6,4 @@ This provided code can provide insight into massive MIMO systems. Furthermore, t
 
 Also, I already validated my code compared with Emil Bjornson's Massive MIMO Book.
 
-If you're starting out building a DRL-based Massive MIMO environment, I provide code that dramatically reduces the time wasted on developing projects.
+If you're starting out building a Massive MIMO environment for deep reinforcement learning, this code can provide significantly reduce wasted time developing your project.
