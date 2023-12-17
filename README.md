@@ -1,6 +1,6 @@
 # Massive-MIMO-PY
 
-I have implemented a multi-cell massive MIMO downlink scenario with imperfect CSI in Python.
+I have implemented a multi-cell massive MIMO downlink scenario with imperfect channel state information (CSI) in Python.
 
 This code offers insights into massive MIMO systems and can contribute to building a deep reinforcement learning environment for various types of massive MIMO networks.
 
